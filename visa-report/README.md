@@ -1,19 +1,19 @@
 
 # 📈 Visa (V) Options Trading Case Study
 
-## 🧠 Strategy: Long Straddle
+## Strategy: Long Straddle
 
-## 📌 Objective
+## Objective
 To profit from a potential large price movement in Visa without predicting direction.
 
 ---
 
-## 🏢 Company Overview
+## Company Overview
 Visa Inc. is a global payment technology company enabling digital transactions worldwide.
 
 ---
 
-## 📊 Pre-Trade Analysis
+## Pre-Trade Analysis
 
 ### Fundamental Analysis
 - Revenue: $40B (+11% YoY)
@@ -21,7 +21,7 @@ Visa Inc. is a global payment technology company enabling digital transactions w
 - Net Margin: 50%
 - Strong cash flow and shareholder returns
 
-👉 Conclusion: Financially strong and stable company
+Conclusion: Financially strong and stable company
 
 ---
 
@@ -31,11 +31,11 @@ Visa Inc. is a global payment technology company enabling digital transactions w
 - Support: $338
 - Resistance: $353
 
-👉 Conclusion: Range-bound, potential breakout
+Conclusion: Range-bound, potential breakout
 
 ---
 
-## ⚙️ Strategy Setup
+## Strategy Setup
 
 - Strategy: Long Straddle
 - Strike Price: $345
@@ -54,14 +54,14 @@ Visa Inc. is a global payment technology company enabling digital transactions w
 
 ---
 
-## 📉 Outcome
+## Outcome
 
 - Final Price: $323.77  
 - Profit: **$1,539**
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 - Strategy worked due to downward movement
 - Regulatory news triggered volatility
@@ -69,7 +69,7 @@ Visa Inc. is a global payment technology company enabling digital transactions w
 
 ---
 
-## ⚠️ Lessons Learned
+## Lessons Learned
 
 - Straddles require **large price movement**
 - Expensive strategy if volatility is low
