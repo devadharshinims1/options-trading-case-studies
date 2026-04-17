@@ -77,7 +77,7 @@ Conclusion: Range-bound, potential breakout
 
 ---
 
-## 📊 Skills Demonstrated
+## Skills Demonstrated
 
 - Options strategy selection  
 - Technical + fundamental analysis  
