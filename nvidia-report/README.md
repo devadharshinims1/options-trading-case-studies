@@ -75,4 +75,7 @@ Conclusion: Bullish but slightly overextended
 
 - Options spread strategies  
 - Market trend evaluation  
-- Risk-reward analysis  
+- Risk-reward analysis
+
+  ---
+  Full Report (PDF): [Download here](nvidia-full-report.pdf)
