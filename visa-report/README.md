@@ -81,4 +81,7 @@ Conclusion: Range-bound, potential breakout
 
 - Options strategy selection  
 - Technical + fundamental analysis  
-- Risk management  
+- Risk management
+
+  ---
+  Full Report (PDF): [Download here](visa-full-report.pdf)
